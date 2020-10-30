@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class>
+  <Object>
+    <Handler>pg_catalog.plpgsql_call_handler</Handler>
+    <Trusted>True</Trusted>
+    <Validator>pg_catalog.plpgsql_validator</Validator>
+    <Comment>PL/pgSQL procedural language</Comment>
+    <Name>plpgsql</Name>
+    <OwnUser></OwnUser>
+  </Object>
+</Class>

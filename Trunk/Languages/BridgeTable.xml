@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BridgeTable>
+  <FileCounter>1</FileCounter>
+  <Content>
+    <Record>
+      <FileName>00000001.xml</FileName>
+      <Info id="Base">
+        <Name>plpgsql</Name>
+        <Class>Languages</Class>
+        <ContainerName></ContainerName>
+        <ContainerClass>Databases</ContainerClass>
+        <Namespace></Namespace>
+      </Info>
+    </Record>
+  </Content>
+</BridgeTable>

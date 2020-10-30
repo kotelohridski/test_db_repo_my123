@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Table>
+  <Branches>
+    <Record>
+      <Name>Trunk</Name>
+      <ParentBranch></ParentBranch>
+      <BackupPath></BackupPath>
+      <BackupFile></BackupFile>
+      <Stored>false</Stored>
+      <DBName>new_db_12</DBName>
+      <DBID>19148</DBID>
+      <Host>localhost</Host>
+      <Port>5434</Port>
+      <User>postgres</User>
+      <Date>2020-10-30T22:44:00.927+01:00</Date>
+      <ChangeNumber>0</ChangeNumber>
+      <BridgeInfo/>
+    </Record>
+  </Branches>
+  <Labels/>
+  <Tags/>
+</Table>

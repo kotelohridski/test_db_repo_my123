@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class>
+  <Object>
+    <Name>public</Name>
+    <OwnUser>postgres</OwnUser>
+    <Comment>standard public schema</Comment>
+  </Object>
+</Class>
